@@ -1,4 +1,3 @@
-# slow parser
 from bs4 import BeautifulSoup
 from dataclasses import dataclass
 import requests
