@@ -1,4 +1,3 @@
-# fastapi example
 from monitoring import ProductMonitoring
 from database import DataBase
 from fastapi import FastAPI
